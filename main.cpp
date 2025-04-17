@@ -116,13 +116,13 @@ cat.purr();
 //  action 3: cat scratches
 cat.scratch();
 //  9)
-//  Noun:    bird
-//  action 1: birf flies
-bird.fly();
-//  action 2: bird sings
-bird.sing();
-//  action 3: bird builds nest
-bird.buildNest();
+//  Noun:    longboardDancer
+//  action 1: longboardDancer pushes and carves
+longboardDancer.pushAndCarve();
+//  action 2: longboardDancer crosses steps
+longboardDancer.crossSteps();
+//  action 3: longboardDancer practices pirouettes
+longboardDancer.practicePirouettes();    
 //  10)
 //  Noun:    fish
 //  action 1: fish swims
